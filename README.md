@@ -1,11 +1,11 @@
-About r-rsolnp
-==============
+About r-rsolnp-feedstock
+========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-rsolnp-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=Rsolnp
 
 Package license: GPL
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-rsolnp-feedstock/blob/main/LICENSE.txt)
 
 Summary: General Non-linear Optimization Using Augmented Lagrange Multiplier Method.
 
