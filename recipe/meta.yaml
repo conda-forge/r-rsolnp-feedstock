@@ -1,4 +1,4 @@
-{% set version = '1.16' %}
+{% set version = "2.0.1" %}
 
 {% set posix = 'm2-' if win else '' %}
 
@@ -11,11 +11,11 @@ source:
   url:
     - https://cran.r-project.org/src/contrib/Rsolnp_{{ version }}.tar.gz
     - https://cran.r-project.org/src/contrib/Archive/Rsolnp/Rsolnp_{{ version }}.tar.gz
-  sha256: 3142776062beb8e2b45cdbc4fe6e5446b6d33505253d79f2890fe4178d9cf670
+  sha256: 3b221100abdd1dd5b8d2df9325cc4e28b2ad2a6bd5069594c83f04f331c36792
 
 build:
   noarch: generic
-  number: 1006
+  number: 0
 
   rpaths:
     - lib/R/lib/
