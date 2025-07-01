@@ -48,7 +48,7 @@ requirements:
     - r-future.apply
     - r-numderiv
     - r-truncnorm
-    
+
 test:
   commands:
     - $R -e "library('Rsolnp')"           # [not win]
